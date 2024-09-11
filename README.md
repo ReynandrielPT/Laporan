@@ -37,7 +37,7 @@ Challenges 8
 
 
 
-Flag: JARKOM24{P4ck3t_4n41yz3r_VrV3koAFVu3112gcsukwiiteS1SHEDPTVLFLS}
+Flag: JARKOM24{P4ck3t_4n4lyz3r_gvnfVqLhrR3112dhnkgxnrirS1SBEGCJDJIOF}
 
 Challenges 9
 
