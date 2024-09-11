@@ -400,7 +400,8 @@
 
 - Output result
 
-  `Attach the screenshot of the output result of your flag`
+![Uploading image.png…]()
+
 
 <br>
 <br>
