@@ -14,7 +14,7 @@ Challenges 3
 Flag: JARKOM24{Y0u_4r3_4_g00d_4nalyz3r_3R1R0L1tssdcnu0lxaz11vohmlrfilx}
 
 Challenges 4
-![Soal 4 5 6]{https://github.com/user-attachments/assets/44e3152d-3338-4afe-94d3-2cfde42f7b56}
+![Soal 4 5 6]{https://github.com/user-attachments/assets/44e3152d-3338-4afe-94d3-2cfde42f7b56)
 
 Flag: JARKOM24{M4ster_4n4lyzer_02064t1k1BRBPLEFQAIR41sv0k19gxq61]
 
