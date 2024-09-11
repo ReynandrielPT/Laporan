@@ -33,7 +33,8 @@ Challenges 7
 Flag: 
 
 Challenges 8
-![Screenshot (133)](https://github.com/user-attachments/assets/0d9cc0ac-1fd8-49e7-9582-885634c6f0e9)
+![Screenshot (133)](https://github.com/user-attachments/assets/ed69f9e8-d4be-48b9-aa42-c0076965e1ec)
+
 
 Flag: JARKOM24{P4ck3t_4n41yz3r_VrV3koAFVu3112gcsukwiiteS1SHEDPTVLFLS}
 
