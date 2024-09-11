@@ -399,8 +399,8 @@
   `Describe how you solve the questions`
 
 - Output result
+![Screenshot (133)](https://github.com/user-attachments/assets/d15dd4de-3779-4600-9d2a-19788913e7c7)
 
-![Uploading image.png…]()
 
 
 <br>
