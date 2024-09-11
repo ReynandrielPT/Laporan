@@ -2,28 +2,29 @@
 
 Challenges 1
 
-Flag: JARKOM24{K4mu_K3r3n_EZIOHA7T0Z9EBH7CPZ8NTONIOHQK590xL4ugh87m6dhhrtbd45c2s18rraa7}
+Flag: 
 
 Challenges 2
 
-Flag: JARKOM24{W0w_4nother_Sh0t_ZHFYSCCIVQH0mptyolieunxcmxoladkbcwcfM4r127448718036517526438}
+Flag: 
 
 Challenges 3
+![Screenshot (128)](https://github.com/user-attachments/assets/cef3cf93-504f-4cf3-8e47-fa01bb501afb)
 
-Flag: JARKOM24{Y0u_4r3_4_g00d_4nalyz3r_CN854L1tsrl6m7yjijt11zrfhfmxjpt}
+Flag: JARKOM24{Y0u_4r3_4_g00d_4nalyz3r_3R1R0L1tssdcnu0lxaz11vohmlrfilx}
 
 Challenges 4
-![Soal 4 5 6](https://github.com/user-attachments/assets/44e3152d-3338-4afe-94d3-2cfde42f7b56)
+![Soal 4 5 6]{https://github.com/user-attachments/assets/44e3152d-3338-4afe-94d3-2cfde42f7b56}
 
-Flag: JARKOM24{M4ster_4n4lyzer_35752t1k1RSLKTSFXEMR41segbhp9n765}
+Flag: JARKOM24{M4ster_4n4lyzer_02064t1k1BRBPLEFQAIR41sv0k19gxq61]
 
 Challenges 5
 
-Flag: JARKOM24{He_1s_g3d4g3d1g3d4g3d40_IXUWGIXURHQDOQULJODGMunskyrccwoodillt452530202682}
+Flag: JARKOM24{He_1s_g3d4g3d1g3d4g3d40_NNAXYPDCHKPSJUNHCOYXMunskydedohkddwpt456517868497}
 
 Challenges 6
 
-Flag: JARKOM24{h1s_fr1end_1s_g3d4g3d1g3d4g3d03_TCQ6EJPSAByksnUmyidtovtudiB4Sur1PXLEKXARLO}
+Flag: JARKOM24{his_friend_1s_g3d4g3d1g3d4g3d03_7068KWP777yksnUmxxvonpzrreB4Sur1KNWBZJGADR}
 
 Challenges 7
 
