@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Yk-Ymzbj)
 | Name           | NRP        | Kelas     |
 | ---            | ---        | ----------|
-| xxxxxxx | xxxxxx | Jaringan Komputer (x) |
-| xxxxxxx | xxxxxx | Jaringan Komputer (x) |
+| Nabil  Julian Syah | 5025231023 | Jaringan Komputer (F) |
+| Reynandriel Pramas Thandya | 5025231113 | Jaringan Komputer (F) |
 
 ## Task 1
 
