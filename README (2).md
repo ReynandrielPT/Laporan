@@ -167,11 +167,13 @@
 
 - Flag
 
-  `Put your flag in here`
+  JARKOM24{Y0u_4r3_4_g00d_4nalyz3r_3R1R0L1tssdcnu0lxaz11vohmlrfilx}
 
 - Filter expression
 
-  `Put your filter expression here (if any)`
+  `http.response` (walaupun di screenshot http.request or http.response karena dalam proses mencari)
+
+  find: `html`
   
 - Explanation
 
@@ -179,7 +181,7 @@
 
 - Output result
 
-  `Attach the screenshot of the output result of your flag`
+![Screenshot (128)](https://github.com/user-attachments/assets/cef3cf93-504f-4cf3-8e47-fa01bb501afb)
 
 <br>
 <br>
@@ -193,7 +195,8 @@
 
 - Flag
 
-  `Put your flag in here`
+  JARKOM24{Y0u_4r3_4_g00d_4nalyz3r_3R1R0L1tssdcnu0lxaz11vohmlrfilx}
+
 
 - Filter expression
 
