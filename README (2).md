@@ -388,7 +388,7 @@
 
 - Flag
 
-  `Put your flag in here`
+  JARKOM24{P4ck3t_4n4lyz3r_gvnfVqLhrR3112dhnkgxnrirS1SBEGCJDJIOF}
 
 - Filter expression
 
