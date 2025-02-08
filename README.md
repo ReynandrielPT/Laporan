@@ -1,7 +1,6 @@
 # Laporan
 
-Challenges 1AAAAAAAAAAAAAAAa
-
+Challenges 1
 Flag: 
 
 Challenges 2
